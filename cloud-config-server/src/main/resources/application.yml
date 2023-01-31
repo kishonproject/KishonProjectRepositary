@@ -8,5 +8,5 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/shabbirdwd53/config-server
+          uri: https://github.com/kishonproject/ConfigServer.git
           clone-on-start: true
